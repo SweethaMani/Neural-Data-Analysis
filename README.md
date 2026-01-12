@@ -1,1 +1,2 @@
-# Neural-Data-Analysis
+# Time Series Statistics
+In this Jupyter notebook, I simulated a neural time series signal to see how noise and variability affect the neural data. I also added some Gaussian noise to make it more similar to real recordings, and then I applied smoothing to it to reduce some of the noise while preserving the overall shape of the signal. I also calculated the mean, variance, and standard deviation of the signal and compared activity across different conditions.
